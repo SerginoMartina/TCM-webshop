@@ -19,7 +19,7 @@ export const Header = () => {
       height={`${HEADER_HEIGHT}px`}
       zIndex="2">
       <Link href="/" title={t('common.homepage')}>
-        <div style="Fontsize: 40px;">TCM</div>
+        <div style={{ fontSize: '40px' }}>TCM</div>
       </Link>
       <LanguageSelector />
     </Flex>
