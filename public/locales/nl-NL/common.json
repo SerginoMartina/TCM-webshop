@@ -1,0 +1,22 @@
+{
+  "common": {
+    "homepage": "Startpagina",
+    "logoImageAltText": "Logo",
+    "aboutUs": "over ons",
+    "description1": "We werden in 1984 opgericht door ontwerpster Chantelle West en hebben altijd in de kracht van lokaal geproduceerde goederen geloofd.",
+    "description2": "De kwaliteit van het vakmanschap en de lokale ambachtslieden die we in dienst hebben, maken Luxette tot onze levensmissie.",
+    "poweredBy": "Mede mogelijk gemaakt door",
+    "regionalSettings": "Regionale instellingen",
+    "language": "Taal"
+  },
+  "product": {
+    "trendingProducts": "Trending producten",
+    "relatedProducts": "Je kunt ook leuk vinden",
+    "addToCart": "In winkelwagen",
+    "quantity": "Aantal"
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "description": "Deze pagina lijkt niet te bestaan. <0>Klik hier</0> om terug te gaan naar de startpagina."
+  }
+}
